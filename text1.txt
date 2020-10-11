@@ -1,1 +1,2 @@
-First created text file.
+First created text file. 
+Deleted second file and edited first file
